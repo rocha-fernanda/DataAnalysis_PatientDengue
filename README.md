@@ -4,11 +4,7 @@
 
 ### Introdução 🌐
 
-Bem-vindo(a) ao Dengue Insights, onde mergulhamos nas águas dos dados epidemiológicos de pacientes em um município brasileiro para desvendar segredos sobre a dengue. Essa análise exploratória abrangente visa classificar a presença ou ausência da doença, trazendo luz para estratégias mais eficazes de prevenção e gestão.
-
-### Objetivo 🚀
-
-Nosso propósito é utilizar as variáveis disponíveis para identificar padrões e correlações que permitam a criação de um sistema de predição eficaz. Vamos contribuir para aprimorar a detecção precoce, gerenciamento de recursos de saúde e estratégias de intervenção no combate à dengue em um município brasileiro.
+Bem-vindo(a) ao Dengue Insights, onde mergulhamos nas águas dos dados epidemiológicos de pacientes no município de São Carlos/SP, para desvendar segredos sobre a dengue. A análise exploratória deste projeto será conduzida utilizando o conjunto de dados disponibilziado pela Secretaria de Saúde de São Carlos, município de São Paulo, focando nos dados epidemiológicos de pacientes da região. Explorei diversas variáveis, incluindo sintomas, exames laboratoriais e características demográficas, empregando técnicas estatísticas e visuais para identificar padrões, correlações e insights relevantes. O objetivo é fornecer uma compreensão abrangente dos dados, destacando tendências significativas que possam contribuir para o desenvolvimento de estratégias eficazes de prevenção e gestão da dengue nessa localidade específica.
 
 ### O que Esperar 📈💡
 
@@ -17,4 +13,3 @@ Nosso propósito é utilizar as variáveis disponíveis para identificar padrõe
 - **Predição Eficiente:** Identifique padrões e correlações relevantes que aprimorem a detecção precoce da dengue, contribuindo para estratégias mais eficazes.
 
 
-Agradecemos por se juntar à nossa missão de transformar dados em estratégias eficazes contra a dengue. Vamos juntos construir um futuro mais saudável! 🌍💪
